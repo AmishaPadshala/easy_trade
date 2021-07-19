@@ -1,0 +1,54 @@
+name: olx_clone
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.0
+  intl: ^0.15.7
+  cloud_firestore: ^0.7.4
+  location: ^1.4.1
+  http: 0.12.0
+  timeago: ^2.0.2
+#  flutter_statusbarcolor: ^0.0.4
+  screentheme: ^0.0.2
+  cached_network_image: ^0.5.0
+  google_sign_in: ^3.0.5
+  firebase_auth: ^0.5.19
+  flutter_facebook_login: ^1.1.1
+  shared_preferences: ^0.4.2
+  firebase_messaging: ^1.0.5
+  fluttertoast: ^2.0.7
+  dropdown_menu: ^1.1.0
+  flutter_spinkit: ^2.0.1
+  flutter_speed_dial: ^1.0.7
+  advanced_share: ^0.1.0
+  path_provider: ^0.4.1
+#  quick_actions: ^0.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/
+
+  fonts:
+      - family: Rubik
+        fonts:
+          - asset: assets/fonts/Rubik-Regular.ttf
+          - asset: assets/fonts/Rubik-Medium.ttf
+            weight: 500

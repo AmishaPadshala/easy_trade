@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "598850470353",
+    "firebase_url": "https://easytrade-2030d.firebaseio.com",
+    "project_id": "easytrade-2030d",
+    "storage_bucket": "easytrade-2030d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598850470353:android:5e8f3f39513c75a5",
+        "android_client_info": {
+          "package_name": "com.vinoth.easytrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598850470353-jr1r5iaqvd2pdgojl7stos32p6f2m549.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytrade",
+            "certificate_hash": "25be9b61da4ad58f9724ab0a2008603c7d0c354c"
+          }
+        },
+        {
+          "client_id": "598850470353-4r8s8u7878h5fs9so7vaopcn5979jihi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytrade",
+            "certificate_hash": "925c60616505e2fb8a1942da20b28edf82c8d544"
+          }
+        },
+        {
+          "client_id": "598850470353-6e0f6ls4j83b73lnq1fko4mq4ri3sjj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytrade",
+            "certificate_hash": "f9c5a5024ffffab74fe18048c077952e9751be83"
+          }
+        },
+        {
+          "client_id": "598850470353-c2ag93m4ut2gt566jrmg217itrdcb90e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytrade",
+            "certificate_hash": "f127ac4c02c2ba82faf42092e212ffd2f3998b16"
+          }
+        },
+        {
+          "client_id": "598850470353-ka6ung1f630htciehvufdsm6qj8n1hfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytrade",
+            "certificate_hash": "70c68df48bf08493b44676ad2c29f2f6f9f20b6c"
+          }
+        },
+        {
+          "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldqPAy4Lh7ppNp4dDhhMaqPi55zIzTPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598850470353:android:aafccd8888580863",
+        "android_client_info": {
+          "package_name": "com.vinoth.easytradeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598850470353-rf3vf88po95o9tb8e09o1uohhff5c4pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytradeadmin",
+            "certificate_hash": "869ec9aa9e015f3d6c6ac8fefcbb5e6a3d147ecb"
+          }
+        },
+        {
+          "client_id": "598850470353-7ik70jgv9oahk6ij1rrsnafoni83n76i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinoth.easytradeadmin",
+            "certificate_hash": "70c68df48bf08493b44676ad2c29f2f6f9f20b6c"
+          }
+        },
+        {
+          "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldqPAy4Lh7ppNp4dDhhMaqPi55zIzTPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598850470353-q5hf84jgfl4hmsac57kk76mnd88a7b5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

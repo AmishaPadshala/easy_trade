@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy_Trade</string>
+
+    <string name="facebook_app_id">788098848045773</string>
+
+    <string name="fb_login_protocol_scheme">fb788098848045773</string>
+    <string name="open_cart">Open Cart</string>
+</resources>

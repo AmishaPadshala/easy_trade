@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/advanced_share-0.1.0/android/advanced_share.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/advanced_share-0.1.0/android/advanced_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.7.4/android/cloud_firestore.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.7.4/android/cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.5.19/android/firebase_auth.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.5.19/android/firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.4/android/firebase_core.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.4/android/firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-1.0.5/android/firebase_messaging.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-1.0.5/android/firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-1.1.1/android/flutter_facebook_login.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-1.1.1/android/flutter_facebook_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_statusbarcolor-0.0.4/android/flutter_statusbarcolor.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_statusbarcolor-0.0.4/android/flutter_statusbarcolor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-2.0.7/android/fluttertoast.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-2.0.7/android/fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.0.5/android/google_sign_in.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.0.5/android/google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/location-1.4.1/android/location.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/location-1.4.1/android/location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/android/path_provider.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/android/path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/quick_actions-0.2.1/android/quick_actions.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/quick_actions-0.2.1/android/quick_actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/screentheme-0.0.2/android/screentheme.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/screentheme-0.0.2/android/screentheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2/android/shared_preferences.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2/android/shared_preferences.iml" />
+    </modules>
+  </component>
+</project>
